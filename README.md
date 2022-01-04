@@ -1,5 +1,6 @@
-<h1 align="center">Web Design Challenge <br /><br /> <i>F1 Constructor Results (2014-2020)</i></h1>
+<h1 align="center">Web Design Challenge <br /><br /> <i>F1 Constructor Results (2014-2021)</i></h1>
 
+<p align="center"><a href="https://rb25s13.github.io/mercedes-f1-hybrid-era/">Link to website</a></p>
 
 <p>The purpose of this project was to use my HTML/Bootstrap/CSS skills to demonstrate how Mercedes has dominated the last 7 years in Forumla One.
 
@@ -19,7 +20,7 @@ I created dataframes of each year of the Constructor Results and created horizon
         data - tables of data used for plots
 
 
-<img src="assets/images/2014_2020_Constructor_Results.png">
+<img src="assets/images/2014_2021_Constructor_Results.png">
 		
         
 
